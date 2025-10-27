@@ -1,6 +1,6 @@
 # Import Essentials
 
-Import Essentials is a list of libraries and tools for Python software development that I consider "essential".
+Import Essentials is a list of libraries and tools for Python software development that [I](https://www.doismellburning.co.uk/) consider "essential".
 
 There's a high degree of subjectivity to that definition, but broadly speaking, it's:
 
@@ -40,3 +40,7 @@ and coverage helps me see what's missed, and ensure things stay above a threshol
 
 I don't write a lot of CLI tools, but when I do, Click is invaluable for handling a lot of the core CLI bits,
 so I can spend my time and energy on the actual functionality.
+
+---
+
+[Kristian Glass](https://www.doismellburning.co.uk/)
