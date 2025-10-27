@@ -31,7 +31,7 @@ it manages a lockfile, and [it's fast](https://github.com/astral-sh/uv/blob/main
 
 I want to let computers handle the mundane tasks so I can focus on the more interesting bits - ruff handles all my linting and formatting needs.
 
-### [coverage](https://coverage.readthedocs.io/) - "Coverage.py is a tool for measuring code coverage of Python programs"
+### [Coverage.py](https://coverage.readthedocs.io/) - "Coverage.py is a tool for measuring code coverage of Python programs"
 
 The more of the code that is tested, the more confidence I can have in it,
 and coverage helps me see what's missed, and ensure things stay above a threshold.
