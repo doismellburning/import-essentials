@@ -14,29 +14,29 @@ I can't guarantee I'll add it, but I'm certainly up for trying things!
 
 ## The List
 
-### [structlog](https://www.structlog.org/en/stable/index.html)
+### [structlog](https://www.structlog.org/en/stable/index.html) - "structlog is the production-ready logging solution for Python"
 
 [Structured logging is great](https://www.structlog.org/en/stable/why.html) and structlog is a great tool for doing it in Python.
 
-### [Hypothesis](https://hypothesis.works/)
+### [Hypothesis](https://hypothesis.works/) - "Hypothesis is the property-based testing library for Python"
 
 [Test properties, not just specific examples](https://increment.com/testing/in-praise-of-property-based-testing/).
 
-### [uv](https://docs.astral.sh/uv/)
+### [uv](https://docs.astral.sh/uv/) - "An extremely fast Python package and project manager"
 
-"An extremely fast Python package and project manager" - I now no longer have to fiddle around manually managing virtualenvs,
+I now no longer have to fiddle around manually managing virtualenvs,
 it manages a lockfile, and [it's fast](https://github.com/astral-sh/uv/blob/main/BENCHMARKS.md).
 
-### [ruff](https://docs.astral.sh/ruff/)
+### [ruff](https://docs.astral.sh/ruff/) - "An extremely fast Python linter and code formatter"
 
 I want to let computers handle the mundane tasks so I can focus on the more interesting bits - ruff handles all my linting and formatting needs.
 
-### [coverage](https://coverage.readthedocs.io/)
+### [coverage](https://coverage.readthedocs.io/) - "Coverage.py is a tool for measuring code coverage of Python programs"
 
 The more of the code that is tested, the more confidence I can have in it,
 and coverage helps me see what's missed, and ensure things stay above a threshold.
 
-### [Click](https://click.palletsprojects.com/en/stable/)
+### [Click](https://click.palletsprojects.com/en/stable/) - "Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary"
 
 I don't write a lot of CLI tools, but when I do, Click is invaluable for handling a lot of the core CLI bits,
 so I can spend my time and energy on the actual functionality.
