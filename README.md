@@ -9,6 +9,9 @@ There's a high degree of subjectivity to that definition, but broadly speaking, 
 So for example I include [Hypothesis](https://hypothesis.works/) because I regularly find myself wanting [property-based testing](https://increment.com/testing/in-praise-of-property-based-testing/),
 but not [`pdb`](https://docs.python.org/3/library/pdb.html) because although it's a good tool, I rarely want a debugger and would much rather improve my logging and testing and observability.
 
+Got something you think should be on the list? [Pull Requests](https://github.com/doismellburning/import-essentials/pulls) welcomed!
+I can't guarantee I'll add it, but I'll certainly give it a try if I haven't already!
+
 ## The List
 
 ### [structlog](https://www.structlog.org/en/stable/index.html)
