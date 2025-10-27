@@ -41,6 +41,14 @@ and coverage helps me see what's missed, and ensure things stay above a threshol
 I don't write a lot of CLI tools, but when I do, Click is invaluable for handling a lot of the core CLI bits,
 so I can spend my time and energy on the actual functionality.
 
+### [ty](https://docs.astral.sh/ty/) - "An extremely fast Python type checker"
+
+Types are great, type checking helps deal with entire classes of bugs, and ty is fast and good.
+
+Previously I was a [mypy](https://www.mypy-lang.org/) user but it added significant delay to my feedback loops that got frustrating fast.
+I've heard good things about [pyright](https://github.com/microsoft/pyright) but I rarely have a JavaScript runtime set up.
+
+
 ---
 
 [Kristian Glass](https://www.doismellburning.co.uk/)
